@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OneBlock_forlife.aternos.me
-",
+    "ip": "OneBlock_forlife.aternos.me",
     "port": 22607,
     "version": "",
     "try-creative": false
